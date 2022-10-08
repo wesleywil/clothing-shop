@@ -19,7 +19,7 @@ Clothing shop project using, reactjs and firebase
 
 **Front:** Reactjs, React Redux, React Router Dom, Redux, Redux-logger, Redux-persist, Redux-Thunk, Reselect, Syled-Compoennts
 
-**Back:** Express, Firebase
+**Back:** Express, Stripe, Firebase
 
 
 ## Steps to Run the Project
